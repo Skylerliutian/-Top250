@@ -1,0 +1,16 @@
+{
+  "id": "1825564",
+  "name": "1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8102695",
+      "name": "团队",
+      "font_class": "icon-test",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}
